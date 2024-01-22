@@ -12,3 +12,6 @@
 		<p>Autor: asix2</p>
 	</body>
 <html>
+<?php
+	echo date("l jS \of F Y h:i:s A") . "<br>";
+?>
